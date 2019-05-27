@@ -1,0 +1,2 @@
+# Food-4-U-at-MU
+An iOS application developed with a small team for a senior project. This application takes input about what the extra food is, where is it located on campus, how much is left, and how much time students have to come and pick up the free food. There is also a picture that is required to be taken, to verify that there is actually food at said location. This is all stored in the Firebase database and is chronologically ordered.
